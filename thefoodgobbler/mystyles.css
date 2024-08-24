@@ -1,0 +1,11 @@
+#maindiv {
+    margin:auto;
+    width:80%;
+    color:white;
+    border-radius:20px;
+    border:2px dotted black;
+    padding:20px;
+    font-family:Geneva;
+    text-align:center;
+    background-color: darkgreen;
+}

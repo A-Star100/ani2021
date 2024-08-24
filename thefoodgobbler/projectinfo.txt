@@ -1,0 +1,20 @@
+This is The Food Gobbler project which will be worked on later on...
+Code used from the book...
+Coding with Basher - Code Your Own Website - A Really Useful Guide To Basic Programming - Created By Basher with THECODERSCHOOL
+Original Project Code Made By : Basher And THECODERSCHOOL
+Remade Project - The FoodGobbler was made by : Anirudh Sevugan.
+Errors Fixed By : Nathan Sevugan
+Changes Made By : Nathan Sevugan
+Website for this page : https://foodgobbler.000webhostapp.com/
+Website made with : 000WebHost
+Download "The Food Gobbler at:
+Basically , let's talk about the early releases of "The Food Gobbler" before we end the adventure.
+INFO : These are the Food Gobbler versions. There's only 1 Release. Release 1!
+Release 1: Just the start of "The Food Gobbler". Everything was just empty.
+Release 2: The Food Gobbler just started it's basics and everything was just pretty basic.
+Release 3: We started working on getting "The Food Gobbler" to become amazing.
+NOTE before we continue : You might know me , Anirudh Sevugan , because I'm on facebook. If you don't know me , go to my website , the food gobbler.
+Release 4: The Food Gobbler was just becoming more wonderful!
+Thanks for seeing "The Food Gobbler!"
+
+
