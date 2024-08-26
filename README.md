@@ -4,4 +4,4 @@ Luckily enough, I still had a local copy of the code I made following the tutori
 
 **⚠️ This repository has been archived and will not be maintained. Go [here](https://ani2021.netlify.app) to view the maintained Netlify website.**
 
-***⚠️ PHP's do not work properly because no other host except 000webhost (dead), Hostinger, and other paid alternatives, so if you would like to use the PHP's either download them all or download all of the source code, please.***
+***❌ PHP's do not work properly because no other host except 000webhost (dead), Hostinger, and other paid alternatives, so if you would like to use the PHP's either download them all or download all of the source code, please.***
